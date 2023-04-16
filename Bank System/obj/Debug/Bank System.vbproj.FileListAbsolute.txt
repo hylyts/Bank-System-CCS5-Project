@@ -1,0 +1,14 @@
+C:\Users\timot\AppData\Local\Temporary Projects\Bank System\bin\Debug\Bank System.exe.config
+C:\Users\timot\AppData\Local\Temporary Projects\Bank System\bin\Debug\Bank System.exe
+C:\Users\timot\AppData\Local\Temporary Projects\Bank System\bin\Debug\Bank System.pdb
+C:\Users\timot\AppData\Local\Temporary Projects\Bank System\bin\Debug\Bank System.xml
+C:\Users\timot\AppData\Local\Temporary Projects\Bank System\obj\Debug\Bank_System.frm1.resources
+C:\Users\timot\AppData\Local\Temporary Projects\Bank System\obj\Debug\Bank_System.Resources.resources
+C:\Users\timot\AppData\Local\Temporary Projects\Bank System\obj\Debug\Bank System.vbproj.GenerateResource.Cache
+C:\Users\timot\AppData\Local\Temporary Projects\Bank System\obj\Debug\Bank System.exe
+C:\Users\timot\AppData\Local\Temporary Projects\Bank System\obj\Debug\Bank System.xml
+C:\Users\timot\AppData\Local\Temporary Projects\Bank System\obj\Debug\Bank System.pdb
+C:\Users\timot\Documents\Visual Studio 2012\Projects\Bank System\Bank System\bin\Debug\Bank System.exe.config
+C:\Users\timot\Documents\Visual Studio 2012\Projects\Bank System\Bank System\obj\Debug\Bank System.exe
+C:\Users\timot\Documents\Visual Studio 2012\Projects\Bank System\Bank System\obj\Debug\Bank System.xml
+C:\Users\timot\Documents\Visual Studio 2012\Projects\Bank System\Bank System\obj\Debug\Bank System.pdb
